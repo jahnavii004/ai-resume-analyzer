@@ -148,7 +148,7 @@ async function analyzeResume() {
     formData.append('role', selectedJobRole);
 
     try {
-        const response = await fetch('http://localhost:5000/api/analyze', {
+        const response = await fetch('https://ai-resume-analyzer-api-lkbp.onrender.com/api/analyze', {
             method: 'POST',
             body: formData
         });
