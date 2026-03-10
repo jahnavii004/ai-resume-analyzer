@@ -55,6 +55,12 @@ Backend:
 
 ---
 
+## Live Demo
+
+🌐 https://ai-resume-analyzer-jahnavi.netlify.app
+
+---
+
 ## 👩‍💻 Author
 
 Jahnavi  
